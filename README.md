@@ -1,4 +1,4 @@
-# EvoDiff
+# Coding-task-EvoDiff
 
 ### Description
 In this work, we introduce a general-purpose diffusion framework, EvoDiff, that combines evolutionary-scale data with 
